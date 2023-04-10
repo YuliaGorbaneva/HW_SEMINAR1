@@ -6,8 +6,8 @@ Console.Write("Введите число ");
 int b = int.Parse(Console.ReadLine());
 
 if (a > b){
-    System.Console.WriteLine($"max = {a}");
+    Console.WriteLine($"max = {a}");
 }
 else {
-    System.Console.WriteLine($"max = {b}"); 
+    Console.WriteLine($"max = {b}"); 
 }
